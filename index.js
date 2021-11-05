@@ -58,9 +58,9 @@ new TypeIt("#type1", {
   loop: true,
   waitUntilVisible: true,
 })
-  .type("Frontend Developer", { delay: 400 })
+  .type("Android Developer", { delay: 400 })
   .pause(500)
-  .delete(19)
+  .delete(18)
   .type("Software Engineer", { delay: 400 })
   .pause(500)
   .delete(19)
@@ -71,9 +71,9 @@ new TypeIt("#type2", {
   loop: true,
   waitUntilVisible: true,
 })
-  .type("Frontend Developer", { delay: 400 })
+  .type("Android Developer", { delay: 400 })
   .pause(500)
-  .delete(19)
+  .delete(18)
   .type("Software Engineer", { delay: 400 })
   .pause(500)
   .delete(19)
